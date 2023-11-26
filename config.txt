@@ -25,7 +25,7 @@ Motors (16) :
 
 Sensors (4) :
 
-Front - D22
-Right - D23
-Back - D24
-Left - D25
+Front - D22, ECHO PIN D2
+Right - D23, ECHO PIN D3
+Back - D24, ECHO PIN D4
+Left - D25, ECHO PIN D5
