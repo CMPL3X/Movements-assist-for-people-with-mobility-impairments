@@ -1,0 +1,31 @@
+How to wire up sensors and motors :
+
+
+
+Motors (16) :
+
+1 - D26
+2 - D27
+3 - D28
+4 - D29
+5 - D30
+6 - D31
+7 - D32
+8 - D33
+9 - D34
+10 - D35
+11 - D36
+12 - D37
+13 - D38
+14 - D39
+15 - D40
+16 - D41
+
+
+
+Sensors (4) :
+
+Front - D22
+Right - D23
+Back - D24
+Left - D25
