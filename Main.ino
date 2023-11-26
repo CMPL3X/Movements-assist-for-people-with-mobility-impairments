@@ -1,16 +1,16 @@
 #include <NewPing.h>
 
 #define TRIGGER_PIN_FRONT 22
-#define ECHO_PIN_FRONT 22
+#define ECHO_PIN_FRONT 2
 
 #define TRIGGER_PIN_RIGHT 23
-#define ECHO_PIN_RIGHT 23
+#define ECHO_PIN_RIGHT 3
 
 #define TRIGGER_PIN_BACK 24
-#define ECHO_PIN_BACK 24
+#define ECHO_PIN_BACK 4
 
 #define TRIGGER_PIN_LEFT 25
-#define ECHO_PIN_LEFT 25
+#define ECHO_PIN_LEFT 5
 
 #define MOTOR_PIN_FRONT_1 26
 #define MOTOR_PIN_FRONT_2 27
