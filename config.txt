@@ -4,6 +4,8 @@ How to wire up sensors and motors :
 
 Motors (16) :
 
+All GND - GND
+
 1 - D26
 2 - D27
 3 - D28
@@ -24,6 +26,9 @@ Motors (16) :
 
 
 Sensors (4) :
+
+All GND - GND
+All VCC - 5v
 
 Front - D22, ECHO PIN D2
 Right - D23, ECHO PIN D3
